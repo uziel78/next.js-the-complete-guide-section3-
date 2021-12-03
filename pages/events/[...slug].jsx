@@ -5,6 +5,8 @@ import EventList from "../../components/events/EventList";
 import ResultsTitle from "../../components/events/ResultsTitle";
 import ErrorAlert from "../../components/ui/ErrorAlert";
 
+// ========== Filtered Events Page ========== //
+
 function FilteredEventsPage() {
   const router = useRouter();
 
